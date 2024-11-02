@@ -9,7 +9,8 @@
 Um projeto **incrível** que **faz coisas incríveis**. 
 
 **Dependencies**
-* express **^4.21.1**
+* express     **^4.21.1**
+* prom-client **^15.1.3**
 
 **Features:**
 
