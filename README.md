@@ -1,29 +1,29 @@
 # Observability with Nodejs
-
-**Description:**
-
-Um projeto **incrível** que **faz coisas incríveis**. 
-
-**Badges:**
-
 ![Badge de Status do Projeto](https://img.shields.io/badge/status-training-blue.svg?style=flat-square)
 ![Badge de Licença](https://img.shields.io/badge/nodeJs-18.19.0-blue.svg?style=flat-square&logo=javascript)
 ![Badge de Licença](https://img.shields.io/badge/npm-10.10.1-blue.svg?style=flat-square&logo=npm)
 ![Badge de Versão](https://img.shields.io/badge/app-v_1.0.0-green.svg?style=flat-square&logo=app)
 
-**Funcionalidades:**
+**Description:**
 
-* **Recurso 1:** Uma descrição detalhada do recurso 1.
-* **Recurso 2:** Uma descrição detalhada do recurso 2.
-* **Recurso 3:** Uma descrição detalhada do recurso 3.
+Um projeto **incrível** que **faz coisas incríveis**. 
 
-**Instalação:**
+**Dependencies**
+* express **^4.21.1**
 
-Siga estes passos simples para instalar o projeto:
+**Features:**
 
-1. **Passo 1:** Uma descrição detalhada do passo 1.
-2. **Passo 2:** Uma descrição detalhada do passo 2.
-3. **Passo 3:** Uma descrição detalhada do passo 3.
+* **Feature 1:** A detailed description of feature 1.
+* **Feature 2:** A detailed description of feature 2.
+* **Feature 3:** A detailed description of feature 3.
+
+**Installation:**
+
+Follow these simple steps to install the project:
+
+1. **Step 1:** A detailed description of step 1.
+2. **Step 2:** A detailed description of step 2.
+3. **Step 3:** A detailed description of step 3.
 
 <!-- **Uso:**
 
