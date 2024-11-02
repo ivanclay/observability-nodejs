@@ -2,8 +2,8 @@
 ![Badge de Status do Projeto](https://img.shields.io/badge/status-training-blue.svg?style=flat-square)
 ![Badge de Licença](https://img.shields.io/badge/nodeJs-18.19.0-blue.svg?style=flat-square&logo=javascript)
 ![Badge de Licença](https://img.shields.io/badge/npm-10.10.1-blue.svg?style=flat-square&logo=npm)
-![Badge de Licença](https://img.shields.io/badge/prometheus-0.0.0-blue.svg?style=flat-square&logo=prometheus)
-![Badge de Licença](https://img.shields.io/badge/grafana-0.0.0-blue.svg?style=flat-square&logo=grafana)
+![Badge de Licença](https://img.shields.io/badge/prometheus-2.55.0-orange.svg?style=flat-square&logo=prometheus)
+![Badge de Licença](https://img.shields.io/badge/grafana-11.3.0-yellow.svg?style=flat-square&logo=grafana)
 ![Badge de Versão](https://img.shields.io/badge/app-v_1.0.0-green.svg?style=flat-square&logo=app)
 
 **Description:**
